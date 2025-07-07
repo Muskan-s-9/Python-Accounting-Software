@@ -1,4 +1,4 @@
-## 🧾 Accounting Software – End-to-End Workflow
+##  Accounting Software – End-to-End Workflow
 
 ```python
 from invoice_processor.invoice_processor_main import process_invoices_with_rag_and_cache
